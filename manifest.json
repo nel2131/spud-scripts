@@ -1,0 +1,9 @@
+{
+  "version": 1,
+  "files": [
+    { "path": "Invoker/combo.lua", "version": 1 },
+    { "path": "Universal/auto_dodge.lua", "version": 1 },
+    { "path": "Universal/auto_last_hit.lua", "version": 1 },
+    { "path": "Universal/auto_disabler.lua", "version": 1 }
+  ]
+}
